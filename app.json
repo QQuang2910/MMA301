@@ -13,11 +13,7 @@
     "android": {
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.quyquang.foodorder",
-      "adaptiveIcon": {
-        "foregroundImage": null,
-        "backgroundImage": null
-      }
+      "package": "com.quyquang.foodorder"
     },
     "web": {
       "output": "static"
